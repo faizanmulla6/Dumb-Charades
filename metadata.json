@@ -1,0 +1,6 @@
+{
+  "name": "Dumb Charades",
+  "description": "Interactive Dumb Charades party game with built-in timer, categories, actor hints, team and individual score tracking, and offline mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Movie Clapperboard Top Slant -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M28,32 L78,24 L79,30 L29,38 Z" />
+    <path
+        android:fillColor="#1E1B4B"
+        android:pathData="M37,28.5 L43,27.5 L42,33.5 L36,34.5 Z" />
+    <path
+        android:fillColor="#1E1B4B"
+        android:pathData="M52,26 L58,25 L57,31 L51,32 Z" />
+    <path
+        android:fillColor="#1E1B4B"
+        android:pathData="M67,23.5 L73,22.5 L72,28.5 L66,29.5 Z" />
+
+    <!-- Movie Clapperboard Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,36 L78,36 C80.2,36 82,37.8 82,40 L82,72 C82,74.2 80.2,76 78,76 L28,76 C25.8,76 24,74.2 24,72 L24,40 C24,37.8 25.8,36 28,36 Z" />
+    
+    <!-- Theater Comedy Mask (Left) inside clapperboard -->
+    <!-- Eyes -->
+    <path
+        android:fillColor="#4A148C"
+        android:pathData="M36,46 A3,3 0 1,1 42,46 A3,3 0 1,1 36,46" />
+    <path
+        android:fillColor="#4A148C"
+        android:pathData="M48,46 A3,3 0 1,1 54,46 A3,3 0 1,1 48,46" />
+    <!-- Smiling Mouth -->
+    <path
+        android:fillColor="#4A148C"
+        android:pathData="M37,56 C39,63 51,63 53,56 C49,59 41,59 37,56 Z" />
+
+    <!-- Star Sparkle Accent (Top Right) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M70,44 L72,49 L77,51 L72,53 L70,58 L68,53 L63,51 L68,49 Z" />
+
+    <!-- Drama/Mystery Mask or Question Mark Indicator -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M66,61 C66,59 69,57 70,56 C71.2,54.8 72,53.5 72,52 C72,49.8 70.2,48 68,48 C65.8,48 64.5,49.5 64.1,51 L61.5,50 C62.3,47 64.7,45.5 68,45.5 C71.6,45.5 74.5,48.4 74.5,52 C74.5,54 73.3,55.5 71.8,57 C70.5,58.3 69,59.2 69,61 L66,61 Z" />
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M67.5,65.5 A1.5,1.5 0 1,1 67.5,62.5 A1.5,1.5 0 1,1 67.5,65.5" />
+
+</vector>

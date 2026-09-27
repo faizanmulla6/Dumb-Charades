@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dumb Charades</string>
+    <string name="tagline">Party Charades with Clues &amp; Scores</string>
+    <string name="btn_play">Play Now</string>
+    <string name="btn_teams">Team Mode</string>
+    <string name="btn_individual">Individual Mode</string>
+</resources>
